@@ -1,28 +1,32 @@
 # Easy Shopping
 
-<br><br>
-<img src="./assets/print/mobileanddesktop.jpg" alt="img">
+<br>
+<div align="center">
+  <img src="./assets/print/mobileanddesktop.jpg" alt="mobile-and-desktop-img" width="600px">
+</div> 
 <br>
 
 ## About the project
 
 https://easyshoppingproject.netlify.app/
 
-Easy Shopping is a web and mobile front-end application built during an online class available on youtube.
+Easy Shopping is a front-end web and mobile application built during a Dev Club course class.
 
 The application consists of a front-end website template.
 
 
 ### Layout mobile
 
-<br>
-<img src="./assets/print/mobile.jpg" alt="img">
+<div align="center">
+  <img src="./assets/print/mobile.jpg" alt="mobile-img" width="400px">
+</div>  
 <br>
 
 ### Layout web
-
-<br>
-<img src="./assets/print/desktop.jpg" alt="img">
+  
+<div align="center">
+  <img src="./assets/print/desktop.jpg" alt="desktop-img" width="400px">
+</div>  
 <br>
 
 

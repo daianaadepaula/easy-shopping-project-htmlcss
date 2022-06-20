@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="./assets/print/mobileanddesktop.jpg" alt="mobile-and-desktop-img" width="600px">
+  <img src="./assets/print/stand.jpg" alt="stand-img" width="600px">
 </div> 
 <br>
 
@@ -19,6 +19,7 @@ The application consists of a front-end website template.
 
 <div align="center">
   <img src="./assets/print/mobile.jpg" alt="mobile-img" width="400px">
+  <img src="./assets/print/tablet.jpg" alt="tablet-img" width="400px">
 </div>  
 <br>
 
@@ -26,6 +27,7 @@ The application consists of a front-end website template.
   
 <div align="center">
   <img src="./assets/print/desktop.jpg" alt="desktop-img" width="400px">
+  <img src="./assets/print/notebook.jpg" alt="notebook-img" width="400px">
 </div>  
 <br>
 
